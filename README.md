@@ -5,4 +5,4 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://br.linkedin.com/in/luiz-marcos-abril-silva-536b99264?original_referer=https%3A%2F%2Fwww.google.com%2F)
 Formação em andamento:
 
-[<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">](https://web.dio.me/track/microsoft-copilot-ai)
+[<img src="https://hermes.dio.me/tracks/e0b4ad51-a4c7-4e61-a683-c04f6d376e9c.png" width="70">](https://web.dio.me/track/microsoft-copilot-ai)
