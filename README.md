@@ -12,4 +12,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TodosPorUm&langs_count=8" alt="Top Langs" />
 </a>
 </div>
-![snake animation](https://github.com/TodosPorUm/TodosPorUm/blob/output/github-contribution-grid-snake2.svg)
