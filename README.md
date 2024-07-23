@@ -6,3 +6,8 @@
 Formação em andamento:
 
 [<img src="https://hermes.dio.me/tracks/e0b4ad51-a4c7-4e61-a683-c04f6d376e9c.png" width="70">](https://web.dio.me/track/microsoft-copilot-ai)
+<div style="width: 200px;">
+<a href="https://github.com/TodosPorUm/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TodosPorUm&langs_count=8" alt="Top Langs" />
+</a>
+</div>
